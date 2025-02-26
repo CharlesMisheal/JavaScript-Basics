@@ -1,6 +1,6 @@
 ### JavaScript Solutions
 
-This repository contains solutions to five common JavaScript problems.
+This repository contains solutions to common JavaScript questions.
 
 ### Table of Contents
 
